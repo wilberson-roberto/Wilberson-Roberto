@@ -63,3 +63,9 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
+
+  ## Total de visitas no perfil <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/detective_1f575-fe0f.png" width="30">
+
+  <p align="center"> 
+    <img alingn="center" src="https://profile-counter.glitch.me/Wilberson-Roberto/count.svg" />
+  </p>
