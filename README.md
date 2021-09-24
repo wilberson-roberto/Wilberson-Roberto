@@ -27,7 +27,7 @@
   ##  Skils <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/nerd-face_1f913.png" width="30px">
   
   <p algin="center">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/97/LOGO-CORELDRAW-GRAPHICS-SUITE.svg">
+    <img height="40" src="img/coreldraw.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
