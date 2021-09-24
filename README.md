@@ -24,7 +24,7 @@
     
   </ul>
   
-  ##  Skils <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/nerd-face_1f913.png" width="30px">
+  ##  Skils <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/nerd-face_1f913.png" width="30px">
   
   <p align="center">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
