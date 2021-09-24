@@ -47,7 +47,7 @@
     -->
   </p>
 
-  ## Contact <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/mobile-phone_1f4f1.png" width="20px">
+  ## Contact <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/mobile-phone_1f4f1.png" width="30px">
 
   <p align=center>
     <a href="mailto:wilberson.roberto.01@gmail.com">
