@@ -15,7 +15,9 @@
     </li>
     <li>
       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/books_1f4da.png" width="20px">
-      Estudante de Desenvolvimento WEB.
+      Estudante de Desenvolvimento WEB com os professores:
+      [Jamilton Damasceno](https://github.com/jamiltondamasceno) e
+      [Gustavo Guanabara](https://github.com/gustavoguanabara)
     </li>
     <li>
       <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/direct-hit_1f3af.png" width="20px">
