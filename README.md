@@ -49,15 +49,15 @@
   ## Contact <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/mobile-phone_1f4f1.png" width="30px">
 
   <p align=center>
-    <a href="mailto:wilberson.roberto.01@gmail.com" target="_blank">
+    <a href="mailto:wilberson.roberto.01@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/wilberson_roberto/" target="_blank">
+    <a href="https://www.instagram.com/wilberson_roberto/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/wilberson-roberto/" target="_blank">
+    <a href="https://www.linkedin.com/in/wilberson-roberto/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
