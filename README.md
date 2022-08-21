@@ -49,7 +49,7 @@
   ## Contact <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/mobile-phone_1f4f1.png" width="30px">
 
   <p align=center>
-    <a href="mailto:wilberson.roberto.01@gmail.com" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:wilberson.roberto.01@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
