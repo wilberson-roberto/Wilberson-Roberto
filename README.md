@@ -14,10 +14,7 @@
     💻 Designer Gráfico (2009 - 2019)
   </li>
   <li>
-    📚 Estudante de Desenvolvimento Full Stack Jr.
-  </li>
-  <li>
-    🎯 Interesse: TypeScript, PHP e Python.
+    📚 Desenvolvedor de softwere assistido por IA
   </li>
 </ul>
 
