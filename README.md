@@ -14,7 +14,7 @@
     💻 Designer Gráfico (2009 - 2019)
   </li>
   <li>
-    📚 Desenvolvedor de softwere assistido por IA
+    📚 Desenvolvedor de software assistido por IA
   </li>
 </ul>
 
@@ -22,6 +22,8 @@
 
 <p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript">
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python">
   &nbsp;&nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" />
   &nbsp;&nbsp;
@@ -35,6 +37,10 @@
   &nbsp;&nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap">
 </p>
+
+## Tecnologias em projetos recentes
+
+Tenho trabalhado com Python em aplicações desktop e automação de navegador, usando Tkinter/CustomTkinter, SQLite, ReportLab, PyInstaller, Selenium, ChromeDriver e Pyperclip. Também utilizo scripts Batch para tarefas de execução e instalação no Windows.
 
 ## Contact 📱
 
